@@ -48,5 +48,10 @@ Zadania
 + tworzenie przykładów
 + samouczki, kursy dla chętnych do używania tej bbiblioteki
 
+---
++ [edit](https://github.com/web-stream/job/edit/main/README.md)
 
+```
+https://github.com/web-stream/job.git
+```
 
