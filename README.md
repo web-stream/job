@@ -1,5 +1,15 @@
 # [job.webstream.dev](https://job.webstream.dev/)
 
+## Aktualne oferty pracy
+
++ Webstream junior developer, praca na godziny
++ Wolontariusz, który chciałby pomóc bezpłatnie niezależnie od posiadanej wiedzy, niekoniecznie jako programista
++ PM, Project Manager
++ Wsparcie klienta
++ Sprzedawca usług w modelu SaaS
+
+## oferty współpracy na kontrakt
++ Samodzielny Webstream-er, praca na rezultat
 
 #### oferta pracy dla programisty juniora dla rozwoju biblioteki
 
