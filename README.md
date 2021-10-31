@@ -4,7 +4,7 @@
 
 + Webstream junior developer, praca na godziny
 + Wolontariusz, który chciałby pomóc bezpłatnie niezależnie od posiadanej wiedzy, niekoniecznie jako programista
- + [volunteer.webstream.dev](https://volunteer.webstream.dev)
+  + [volunteer.webstream.dev](https://volunteer.webstream.dev)
 + PM, Project Manager
 + Wsparcie klienta
 + Sprzedawca usług w modelu SaaS
