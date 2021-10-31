@@ -21,6 +21,8 @@ Która może mieć wiedzę o biznesie, który ma zapotrzebowanie na rozwiązanie
 
 ## Webstream junior developer
 
+### Oczekiwany profil kandydata
+
 znajomość technologii:
 
 + html
@@ -45,6 +47,10 @@ Atutem będzie
 + własna, nawet prototypowa strona wizytówka, blog, newsletter, itp
 + inne formy promowania technologii 
 
+Dlaczego?
+ponieważ szukamy osób zaangażowanych, które dzielą się swoją wiedzą, niekoniecznie techniczną.
+
+
 Nie wymagamy:
 
 + znajomości frameworków
@@ -52,20 +58,23 @@ Nie wymagamy:
 + 40 godzinnnego trybu pracy
 + nadgodzin
 
-Co oferujemy:
 
-+ Pracujesz kiedy masz możliwość
-+ Minimalny czas pracy to 3h na jednym spotkaniu, nie więcej, nie mniej
-+ dostajesz w tym czasie potrzebne wsparcie
-+ po wykonaniu zadania rozliczenie
+### Jak pracujemy?
 
 Kultura i specyfika pracy
 
++ Pracujesz kiedy masz możliwość
++ po wykonaniu zadania rozliczenie
+
 [culture.softreck.dev](https://culture.softreck.dev)
+
 
 Kontaktujemy się cyklicznie w uzgodnionym czasie i pracujemy nad kolejnymi zdaniami
 
++ Optymalny czas pracy to 3h na spotkanie online przez komunikator
++ Uzgadniamy szczegóły i pracujemy razem, oferując w tym czasie potrzebne wsparcie
 [sessions.webstream.dev](https://sessions.webstream.dev)
+
 
 Zadania
 
@@ -78,6 +87,17 @@ Zadania
 + samouczki, kursy dla chętnych do używania tej bbiblioteki
 
 [task.webstream.dev](https://task.webstream.dev)
+
+
+## Zapraszamy do żywego kontaktu
+
++ [Tom Saplettat on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
+## About Webstream
+
++  Website about Webstreaming on github - [web-stream/www](https://github.com/web-stream/www)
 
 
 ---
