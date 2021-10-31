@@ -91,7 +91,7 @@ Zadania
 
 ## Zapraszamy do żywego kontaktu
 
-+ [Tom Saplettat on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Tom Sapletta on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
 + [Softreck Company - Leadership Through Software Development](https://softreck.com/)
 
