@@ -5,6 +5,14 @@
 + uczysz się przez praktykę
 + korzystasz z wiedzy doświadczonych kolegów
 
+
+Kogo szukamy?
+
+Każdego kto docenia elastyczny model pracy, wykonywanej często dla więcej niż jednego pracodawcy równocześnie, w zależności od potrzeb i wymagań. 
+
+Zaparszamy freelancerów, osoby pracujące tymczasowo, konsultantów, specjalistów, influencerów. 
+
+
 ## Aktualne oferty pracy
 
 + Web Stream Junior Developer, praca na godziny
