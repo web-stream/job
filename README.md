@@ -1,8 +1,13 @@
 # [job.webstream.dev](https://job.webstream.dev/)
 
++ pracujesz w wybranym czasie
++ nad wybranymi zadaniami
++ uczysz się przez praktykę
++ korzystasz z wiedzy doświadczonych kolegów
+
 ## Aktualne oferty pracy
 
-+ Webstream junior developer, praca na godziny
++ Web Stream Junior Developer, praca na godziny
 + Wolontariusz, który chciałby pomóc bezpłatnie niezależnie od posiadanej wiedzy, niekoniecznie jako programista
   + [volunteer.webstream.dev](https://volunteer.webstream.dev)
 + PM, Project Manager
