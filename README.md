@@ -1,12 +1,14 @@
 # [job.webstream.dev](https://job.webstream.dev/)
 
+## Korzyści ze współpracy przy budowie technologicznego ekosystemu
+
 + pracujesz w wybranym czasie
 + nad wybranymi zadaniami
 + uczysz się przez praktykę
 + korzystasz z wiedzy doświadczonych kolegów
 
 
-Kogo szukamy?
+## Kogo szukamy?
 
 Każdego kto docenia elastyczny model pracy, wykonywanej często dla więcej niż jednego pracodawcy równocześnie, w zależności od potrzeb i wymagań. 
 
